@@ -5,7 +5,7 @@ function Slide3() {
     <div className="slide slide3">
       <h2>Ранні роки Скоропатського</h2>
       <div style={{ display: "flex" }}>
-        <img src="../../public/img/МиколаГе.jpg" alt="" />
+        <img src="/img/МиколаГе.jpg" alt="" />
         <p style={{ padding: 10 }}>
           Генеалогія козацького старшинського роду Скоропадських веде свій
           початок від першої половини XVII століття. Рід був пов'язаний шлюбними

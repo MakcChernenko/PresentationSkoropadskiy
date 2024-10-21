@@ -4,7 +4,7 @@ function Slide8() {
   return (
     <div>
       <h2>Падіння і еміграція</h2>
-      <img className="titleImg" src="../../public/img/famyli.jpg" alt="#" />
+      <img className="titleImg" src="/img/famyli.jpg" alt="#" />
       <p>
         За кілька тижнів боїв повстанці, 14 грудня 1918 року, заволоділи
         столицею Української Держави. Обставини змусили його зректися того ж дня

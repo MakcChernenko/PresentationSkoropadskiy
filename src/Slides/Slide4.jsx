@@ -5,7 +5,7 @@ function Slide4() {
     <div>
       <h2>Прихід до влади і контекст подій</h2>
       <div style={{ display: "flex" }}>
-        <img src="../../public/img/marodery1917.webp" alt="#" />
+        <img src="/img/marodery1917.webp" alt="#" />
         <p style={{ padding: 10 }}>
           Журналісти зафіксували: “Вивозили все: меблі, зеркала, фортеп’яна,
           картини, хліб, одежу, чоботи, білизну, гроші. Звощики тягнулись до

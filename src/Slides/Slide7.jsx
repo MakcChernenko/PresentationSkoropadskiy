@@ -5,7 +5,7 @@ function Slide7() {
     <div>
       <h2>Зовнішня політика</h2>
       <div style={{ display: "flex" }}>
-        <img src="../../public/img/friends.jpg" alt="#" />
+        <img src="/img/friends.jpg" alt="#" />
         <p style={{ padding: 10 }}>
           Українську державу визнали 30 країн, з постійними представництвами 10
           з них у Києві. Україна мала дипломатичні місії в 23 країнах, зокрема в

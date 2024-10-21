@@ -9,7 +9,7 @@ function Slide5() {
       }}
     >
       <h2>Теперішні росіяни</h2>
-      <img className="tankImg" src="../../public/img/rosiyany.avif" alt="#" />
+      <img className="tankImg" src="/img/rosiyany.avif" alt="#" />
       <i>фото з радіо "Свобода"</i>
     </div>
   );
